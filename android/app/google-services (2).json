@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "883819290362",
+    "project_id": "youlearn2-4e834",
+    "storage_bucket": "youlearn2-4e834.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883819290362:android:1f9cc4afb39c8e8f07b343",
+        "android_client_info": {
+          "package_name": "com.example.youlearn2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoMty5KxGW3qCRC2GzxfBlVjw_05jtZxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
